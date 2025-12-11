@@ -94,20 +94,18 @@ Download `Flowmora-Browser-win-x64.zip`, extract, and run `Flowmora Browser.exe`
 
 ## 📸 Screenshots
 
-### New Tab Page
+
 <p align="center">
-  <em>Clean, minimal new tab page with quick access shortcuts</em>
+  <em> <img width="2378" height="1482" alt="image" src="https://github.com/user-attachments/assets/0c7ca782-d1b6-494b-afce-c189e430ee50" />
+</em>
 </p>
 
 ### Knowledge Mode
 <p align="center">
-  <em>Capture and organize knowledge while browsing</em>
+  <em><img width="2368" height="1555" alt="image" src="https://github.com/user-attachments/assets/ee53f3e1-b413-4819-a551-cce0d5f20ec3" />
+</em>
 </p>
 
-### Dark Theme
-<p align="center">
-  <em>Premium Dracula-inspired dark theme</em>
-</p>
 
 ---
 
