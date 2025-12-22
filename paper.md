@@ -14,7 +14,7 @@ authors:
 affiliations:
   - name: Independent Developer
     index: 1
-date: 22 December 2024
+date: 22 December 2025
 bibliography: paper.bib
 ---
 
